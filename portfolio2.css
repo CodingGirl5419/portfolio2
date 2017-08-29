@@ -1,0 +1,78 @@
+body {
+    background-image: url("Daisy copy.PNG");
+    background-size: cover;
+}
+
+h1.cursive {
+  font-family: "cursive", cursive;
+  color: red;
+  text-align: center;
+  font-size: 400%;
+}
+
+h2 {
+  font-family: verdana;
+  color: red;
+  text-align: center;
+  font-size: 200%;
+  margin-top: 40%;
+}
+
+p span {
+    color: white;
+    font-family: verdana;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+
+}
+
+div {
+    border: 1px solid black;
+    margin: 1px -50px -500px -10px;
+    background-color: black;
+}
+
+img {
+  /*margin-bottom: -100%;*/
+}
+
+.button1 {
+font-size: 115%;
+background-color: red;
+border-radius: 5px;
+padding: 5px 55px;
+border: 2px solid white;
+
+}
+
+.button2 {
+font-size: 115%;
+background-color: red;
+border-radius: 5px;
+padding: 5px 55px;
+border: 2px solid white;
+/*margin-left: 55%;*/
+
+}
+
+.space {
+  margin: auto;
+  width: 10%;
+  height: 5%;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+    color: black;
+}
