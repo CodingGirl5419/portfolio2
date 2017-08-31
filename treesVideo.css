@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+}
+
+div {
+    border: 1px solid black;
+    margin: 1px -50px -500px -10px;
+    background-color: black;
+}
+
+h1 {
+  font-family: "cursive", cursive;
+  color: red;
+  text-align: center;
+  font-size: 400%;
+}
+
+.container {
+width: 100%;
+height: 100%;
+position: absolute;
+padding:0;
+margin:0;
+left: 0px;
+top: 0px;
+z-index: -1000;
+overflow:hidden;
+}
+
+.videoPlayer {
+    min-height: 100%;
+    //min-width:100%; - if fit to width
+position:absolute;
+bottom:0;
+left:0;
+}
+
+.hairFlip {
+  margin-top: -800%;
+  margin-left: 20%;
+  margin-bottom: 50%;
+}
+
+.walking {
+  margin-top: -800%;
+  margin-left: 60%;
+  margin-bottom: 20%;
+}
+
+.treesWalking {
+  margin-top: -800%;
+  margin-left: 60%;
+  margin-bottom: 60%;
+}
+
+.jump {
+  margin-top: -800%;
+  margin-left: 30%;
+  margin-bottom: 35%;
+}
+
+.button1 {
+font-size: 115%;
+background-color: red;
+border-radius: 5px;
+padding: 5px 55px;
+border: 2px solid white;
+
+}
+
+.button2 {
+font-size: 115%;
+background-color: red;
+border-radius: 5px;
+padding: 5px 55px;
+border: 2px solid white;
+/*margin-left: 55%;*/
+
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+    color: black;
+}
