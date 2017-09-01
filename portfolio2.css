@@ -57,6 +57,14 @@ border: 2px solid white;
 
 }
 
+.button1:hover, .button1:focus {
+    background-color: white;
+}
+
+.button2:hover, .button2:focus {
+    background-color: white;
+}
+
 .space {
   margin: auto;
   width: 10%;
